@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Soy una Front-end Developer en constante aprendizaje</h3>
 
 - 📫 Si quieres contactarme, no lo dudes **analiaklein@gmail.com**
-- **https://www.linkedin.com/in/anal%C3%ADa-klein/**
+
 
 
 <h3 align="left">Lenguajes y herramientas:</h3>
